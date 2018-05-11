@@ -14,5 +14,21 @@
         android:layout_marginBottom="20dp"
         android:layout_centerHorizontal="true"
         android:text="Arata cutremure"/>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="56dp"
+        android:id="@+id/showEmailPage"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="Email"/>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="56dp"
+        android:id="@+id/showTelephonePage"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="Suna"/>
 
 </RelativeLayout>
